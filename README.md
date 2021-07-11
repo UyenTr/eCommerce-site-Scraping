@@ -1,4 +1,4 @@
-# eCommerce-site-Scraping
+# eCommerce-site-Scraping - Using Selenium
 For for our first project in the CoderSchool Machine Learning course we were given the task of choosing a product category from the popular Vietnamese B2C e-commerce platform Tiki. 
 We chose the phone and tablets section as these are product we use daily. 
 Next, we applied web scraping techniques to first extract 13 pieces of information about each of the products on page 1 of this category before expanding our search throughout all 22 pages of the product. 

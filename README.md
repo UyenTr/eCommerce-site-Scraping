@@ -6,7 +6,7 @@ These bits of information included each of the products names, prices, ratings a
 Finally, we imported our extracted data into a panda dataFrame for easy viewing.
 
 - What is the category you choose? Why?
-- 
+
 We chose the phone - tablet section from the Tiki website.
 We chose this as we felt it was most relevant to our day to day lives.
 Buying a phone or tablet is a much more pleasurable and cost effective experience than in South Africa.
@@ -16,7 +16,7 @@ We wanted to have a look at the data and see if it matched our expectations!
 423 out of a possible 423 products.
 - What is the range and average price of that category?
 - 423 out of a possible 423 products.
--
+
 -  What is the range and average price of that category?
 
 The cheapest product in this category cost 149 000 VND with the most expensive being the 37 990 000 iPhone 12 Pro Max 512GB!
